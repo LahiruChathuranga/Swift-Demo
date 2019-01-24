@@ -1,0 +1,111 @@
+PODS:
+  - Alamofire (4.7.3)
+  - AlamofireImage (3.4.1):
+    - Alamofire (~> 4.7)
+  - DynamicBlurView (3.0.1)
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - GooglePlaces (2.7.0):
+    - GoogleMaps/Base (= 2.7.0)
+  - iOSDropDown (0.2.6)
+  - Moya (11.0.2):
+    - Moya/Core (= 11.0.2)
+  - Moya/Core (11.0.2):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - ObjectMapper (3.4.1)
+  - PKHUD (5.2.0)
+  - PopupDialog (0.9.1):
+    - DynamicBlurView (~> 3.0.1)
+  - PromiseKit (6.5.2):
+    - PromiseKit/CorePromise (= 6.5.2)
+    - PromiseKit/Foundation (= 6.5.2)
+    - PromiseKit/UIKit (= 6.5.2)
+  - PromiseKit/CorePromise (6.5.2)
+  - PromiseKit/Foundation (6.5.2):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.5.2):
+    - PromiseKit/CorePromise
+  - Realm (3.11.2):
+    - Realm/Headers (= 3.11.2)
+  - Realm/Headers (3.11.2)
+  - RealmSwift (3.11.2):
+    - Realm (= 3.11.2)
+  - Result (3.2.4)
+  - RxAtomic (4.4.0)
+  - RxCocoa (4.4.0):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.4.0):
+    - RxAtomic (~> 4.4)
+  - SideMenuSwift (1.0.0)
+  - SwiftyBeaver (1.6.1)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - AlamofireImage (~> 3.4)
+  - GoogleMaps
+  - GooglePlaces
+  - iOSDropDown
+  - Moya (~> 11.0)
+  - ObjectMapper
+  - PKHUD (~> 5.0)
+  - PopupDialog (~> 0.9)
+  - PromiseKit (~> 6.0)
+  - RealmSwift
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+  - SideMenuSwift
+  - SwiftyBeaver
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - DynamicBlurView
+    - GoogleMaps
+    - GooglePlaces
+    - iOSDropDown
+    - Moya
+    - ObjectMapper
+    - PKHUD
+    - PopupDialog
+    - PromiseKit
+    - Realm
+    - RealmSwift
+    - Result
+    - RxAtomic
+    - RxCocoa
+    - RxSwift
+    - SideMenuSwift
+    - SwiftyBeaver
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  AlamofireImage: 78d67ccbb763d87ba44b21583d2153500a195630
+  DynamicBlurView: b1df5415f9bd31897549e5d7077e5ec120a4d636
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  GooglePlaces: 3d06e6c99654545b4738ce49648745779c25f2ef
+  iOSDropDown: 90608a7270234c503260ef13314907b6703b39aa
+  Moya: a725035953bc1c0eb1be505ab903984501d82440
+  ObjectMapper: 5311bd50ca732930959e7ca1a2de43ab823a5ced
+  PKHUD: dd5357ac65f26115c35c4a68e9b328053326c5fe
+  PopupDialog: 03985b669c29802661c187513bf827340db1ae4d
+  PromiseKit: 27c1601bfb73405871b805bcb8cf7e55c4dad3db
+  Realm: 864477d028db77f7c5a0cba64a4892ad53db128a
+  RealmSwift: 12b8262fc08020b47de4fd88eb3d5c9425b34ec7
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  RxAtomic: eacf60db868c96bfd63320e28619fe29c179656f
+  RxCocoa: df63ebf7b9a70d6b4eeea407ed5dd4efc8979749
+  RxSwift: 5976ecd04fc2fefd648827c23de5e11157faa973
+  SideMenuSwift: f8567754feb36ade13ffd613f608829f4b86d4b3
+  SwiftyBeaver: ccfcdf85a04d429f1633f668650b0ce8020bda3a
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: 0a76fd7e3d3d93f55a838d74610579d7a2eac841
+
+COCOAPODS: 1.5.3
